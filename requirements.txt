@@ -1,0 +1,8 @@
+discord.py
+python-dotenv
+Flask
+gunicorn
+requests
+requests-oauthlib
+waitress
+aiosqlite
